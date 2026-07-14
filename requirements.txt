@@ -3,3 +3,4 @@ google-cloud-bigquery
 python-dotenv[cli]
 dbt-core
 dbt-bigquery
+protobuf<5
