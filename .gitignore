@@ -224,3 +224,4 @@ gcp-key.json
 target/
 dbt_packages/
 logs/
+.DS_Store
